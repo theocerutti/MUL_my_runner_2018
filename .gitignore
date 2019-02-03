@@ -1,0 +1,9 @@
+*.o
+*.~
+*.#
+*.a
+*#
+*.gch
+a.out
+my_runner
+.idea
